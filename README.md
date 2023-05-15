@@ -1,6 +1,6 @@
 # Visualization-Project
 
-![Proyecto Visualizacion](img/botines.jpg)
+![Proyecto Visualizacion](img/botines.jpeg)
 
 ## Índice
 
@@ -41,7 +41,7 @@ La base de datos la obtenemos de Kaggle.
 
 ## Análisis
 
-#### Common Boots Brand & Top 5
+### Common Boots Brand & Top 5
 
 En primer lugar, observamos las marcas de botas de fútbol más populares en nuestra base de datos. Luego, utilizamos herramientas de visualización de datos para comparar la frecuencia de uso de estas marcas en las cinco grandes ligas del fútbol mundial. Esta visualización nos permitió identificar las marcas más utilizadas por los jugadores de fútbol en cada liga, proporcionando información valiosa para entender las preferencias de los jugadores y la tendencia del mercado en la industria de las botas de fútbol.
 
@@ -49,19 +49,19 @@ En primer lugar, observamos las marcas de botas de fútbol más populares en nue
 
 ![Top 5](img/country.png)
 
-#### Top 15 players
+### Top 15 players
 
 En segundo lugar, realizamos un análisis adicional para determinar el valor de mercado actual de los jugadores que utilizan las botas de fútbol presentes en nuestra base de datos. Para esto, generamos un listado de los 15 jugadores con el valor de mercado más alto que utilizan cada una de estas marcas de botas de fútbol. Este análisis nos permitió identificar la relación entre la elección de botas de fútbol de un jugador y su valor en el mercado, lo que puede ser útil para empresas de marketing deportivo y marcas de botas de fútbol que buscan establecer asociaciones con jugadores de alto perfil.
 
 ![Top 15](img/market.png)
 
-#### Boots Top Player
+### Boots Top Player
 
 En tercer lugar, obtuvimos el recuento de los distintos modelos de botas de futbol utilizados por los jugadores patrocinados por cada marca, así como la cantidad de botas utilizadas de acuerdo al jugador que las patrocina. Utilizando los datos de nuestra base de datos, pudimos obtener información detallada sobre los modelos de botas de fútbol utilizados por los jugadores en cada liga, y la cantidad de botas de cada modelo utilizadas por los jugadores patrocinados por cada marca.
 
 ![Top Player](img/top.png)
 
-#### Market Value Vary
+### Market Value Vary
 
 Y por último, realizamos un análisis de varianza para evaluar la relación entre el valor de mercado de los jugadores de nuestra base de datos, su posición en el campo y su nacionalidad. Este análisis nos permitió identificar la correlación entre estos factores, lo que puede ser útil para las empresas de gestión deportiva, equipos y clubes en la selección y evaluación de jugadores. En general, este análisis ha agregado una dimensión adicional al estudio de las tendencias del mercado de botas de fútbol, y nos ha permitido obtener una comprensión más completa de los factores que influyen en el valor de mercado de los jugadores de fútbol en todo el mundo.
 
