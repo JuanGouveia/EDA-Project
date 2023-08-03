@@ -19,7 +19,7 @@ En el siguiente proyecto nos encargaremos de extraer una base de datos, acomodar
 
 <a name="objetivo"/>
 
-### Objetivo principal
+## Objetivo principal
 
 Nuestro objetivo principal será dar una buena visualización a las conclusiones que podamos sacar de nuestra base de datos.
 
