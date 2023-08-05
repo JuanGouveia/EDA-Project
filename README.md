@@ -19,13 +19,13 @@ En el siguiente proyecto nos encargaremos de extraer una base de datos, acomodar
 
 <a name="objetivo"/>
 
-### Objetivo principal
+## Objetivo principal
 
 Nuestro objetivo principal será dar una buena visualización a las conclusiones que podamos sacar de nuestra base de datos.
 
 <a name="datos"/>
 
-### Base de datos
+## Base de datos
 
 La base de datos la obtenemos de Kaggle.
 
@@ -49,17 +49,23 @@ En primer lugar, observamos las marcas de botas de fútbol más populares en nue
 
 ![Top 5](img/country.png)
 
+<br>
+
 ### Top 15 players
 
 En segundo lugar, realizamos un análisis adicional para determinar el valor de mercado actual de los jugadores que utilizan las botas de fútbol presentes en nuestra base de datos. Para esto, generamos un listado de los 15 jugadores con el valor de mercado más alto que utilizan cada una de estas marcas de botas de fútbol. Este análisis nos permitió identificar la relación entre la elección de botas de fútbol de un jugador y su valor en el mercado, lo que puede ser útil para empresas de marketing deportivo y marcas de botas de fútbol que buscan establecer asociaciones con jugadores de alto perfil.
 
 ![Top 15](img/market.png)
 
+<br>
+
 ### Boots Top Player
 
 En tercer lugar, obtuvimos el recuento de los distintos modelos de botas de futbol utilizados por los jugadores patrocinados por cada marca, así como la cantidad de botas utilizadas de acuerdo al jugador que las patrocina. Utilizando los datos de nuestra base de datos, pudimos obtener información detallada sobre los modelos de botas de fútbol utilizados por los jugadores en cada liga, y la cantidad de botas de cada modelo utilizadas por los jugadores patrocinados por cada marca.
 
 ![Top Player](img/top.png)
+
+<br>
 
 ### Market Value Vary
 
