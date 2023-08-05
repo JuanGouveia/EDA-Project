@@ -1,6 +1,6 @@
-# Visualization-Project
+# EDA-Project
 
-![Proyecto Visualizacion](img/botines.jpeg)
+![Proyecto EDA](img/botines.jpeg)
 
 ## Índice
 
