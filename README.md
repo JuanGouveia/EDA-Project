@@ -30,7 +30,7 @@ Nuestro objetivo principal será dar una buena visualización a las conclusiones
 La base de datos la obtenemos de Kaggle.
 
 <details>
-<summary>https://www.kaggle.com/</summary>
+<summary><b>https://www.kaggle.com/</b></summary>
 <br>
 
 ![Boots Dataset](img/kaggle.png)
